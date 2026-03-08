@@ -1,0 +1,64 @@
+baseURL = "https://3dprintsolar.com/"
+languageCode = "en-us"
+title = "3D Print Solar"
+theme = "printwire-theme"
+
+[params]
+  siteName       = "3D Print Solar"
+  tagline        = "Additive manufacturing for solar energy systems — custom mounting structures, concentrated solar geometry, and PV components without conventional tooling."
+  primaryColor   = "#f59e0b"
+  bgColor        = "#080600"
+  fontPrimary    = "Rajdhani"
+  fontSecondary  = "Exo 2"
+  fontURL        = "https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&family=Exo+2:wght@300;400;500;600;700;800;900&display=swap"
+  ogImage        = "https://images.unsplash.com/photo-1581784878214-8d5596b98a01?w=1200&q=80"
+  favicon        = "☀️"
+  pubmedQuery    = "additive+manufacturing+solar+photovoltaic+3D+printing+renewable+energy"
+  contactEmail   = "maxdavisgroup@gmail.com"
+  web3formsKey   = "6f33053b-6d08-414b-9615-665f88c98da8"
+  xometryId      = "XOMETRY_AFFILIATE_ID"
+  domain         = "3dprintsolar.com"
+  heroImage      = "https://images.unsplash.com/photo-1581784878214-8d5596b98a01?w=1200&q=80"
+
+[[params.stats]]
+  number = "UV"
+  label  = "Resistant Materials"
+
+[[params.stats]]
+  number = "200°C"
+  label  = "Thermal Rating"
+
+[[params.stats]]
+  number = "Custom"
+  label  = "Tilt Angles"
+
+[[params.stats]]
+  number = "48hr"
+  label  = "Prototype Delivery"
+
+[[params.services]]
+  title = "Panel Mounting Structures"
+  icon  = "◎"
+  image = "https://images.unsplash.com/photo-1599696848652-f0ff23bc911f?w=600&q=80"
+  short = "Custom racking, tilt-adjustable mounts, and non-penetrating ballast systems printed in UV-stabilized polymer and aluminum alloy."
+
+[[params.services]]
+  title = "Concentrated Solar Geometry"
+  icon  = "✦"
+  image = "https://images.unsplash.com/photo-1599995903128-531fc7fb694b?w=600&q=80"
+  short = "Parabolic dish reflectors, Fresnel lens arrays, and CSP trough components for concentrated solar power applications."
+
+[[params.services]]
+  title = "PV System Integration Components"
+  icon  = "⚡"
+  image = "https://images.unsplash.com/photo-1617634667039-8e4cb277ab46?w=600&q=80"
+  short = "Junction boxes, conduit fittings, inverter housings, and wiring management for photovoltaic systems — IP65-rated and UV-stabilized."
+
+[[params.services]]
+  title = "Rapid-Deploy Off-Grid Systems"
+  icon  = "◈"
+  image = "https://images.unsplash.com/photo-1599696848652-f0ff23bc911f?w=600&q=80"
+  short = "Portable solar station components for disaster response, remote sensing, and field research deployments."
+
+[markup.goldmark.renderer]
+  unsafe = true

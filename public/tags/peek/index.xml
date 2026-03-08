@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PEEK on 3D Print Solar</title>
+    <link>https://3dprintsolar.com/tags/peek/</link>
+    <description>Recent content in PEEK on 3D Print Solar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://3dprintsolar.com/tags/peek/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UV-Stable 3D Printing Materials for Outdoor Solar Applications</title>
+      <link>https://3dprintsolar.com/articles/uv-stable-materials-outdoor/</link>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://3dprintsolar.com/articles/uv-stable-materials-outdoor/</guid>
+      <description>Standard 3D printing polymers degrade rapidly under UV exposure. This guide covers which materials survive the 25-year lifespan solar components require.</description>
+    </item>
+  </channel>
+</rss>
