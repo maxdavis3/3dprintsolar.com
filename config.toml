@@ -11,7 +11,7 @@ theme = "printwire-theme"
   fontPrimary    = "Rajdhani"
   fontSecondary  = "Exo 2"
   fontURL        = "https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&family=Exo+2:wght@300;400;500;600;700;800;900&display=swap"
-  ogImage        = "/images/01_solar_panel.png"
+  ogImage        = "/images/01_bracket_layers.png"
   favicon        = "☀️"
   pubmedQuery    = "additive+manufacturing+solar+photovoltaic+3D+printing+renewable+energy"
   contactEmail   = "maxdavisgroup@gmail.com"
@@ -39,19 +39,19 @@ theme = "printwire-theme"
 [[params.services]]
   title = "Panel Mounting Structures"
   icon  = "◎"
-  image = "/images/10_mounting_frame.png"
+  image = "/images/02_sla_resin.png"
   short = "Custom racking, tilt-adjustable mounts, and non-penetrating ballast systems printed in UV-stabilized polymer and aluminum alloy."
 
 [[params.services]]
   title = "Concentrated Solar Geometry"
   icon  = "✦"
-  image = "/images/07_reflector_array.png"
+  image = "/images/02_thermal_absorber.png"
   short = "Parabolic dish reflectors, Fresnel lens arrays, and CSP trough components for concentrated solar power applications."
 
 [[params.services]]
   title = "PV System Integration Components"
   icon  = "⚡"
-  image = "/images/06_junction_box.png"
+  image = "/images/03_printing_process.png"
   short = "Junction boxes, conduit fittings, inverter housings, and wiring management for photovoltaic systems — IP65-rated and UV-stabilized."
 
 [[params.services]]
