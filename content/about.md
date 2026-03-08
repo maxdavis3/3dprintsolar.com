@@ -2,7 +2,7 @@
 title: "About 3D Print Solar"
 description: "The additive manufacturing resource for solar engineers, PV system designers, and renewable energy innovators."
 layout: "about"
-image: "https://images.unsplash.com/photo-1581784878214-8d5596b98a01?w=1200&q=80"
+image: "/images/01_solar_panel.png"
 ---
 
 ## Engineering Solar Without Tooling Constraints

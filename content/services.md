@@ -2,7 +2,7 @@
 title: "Services"
 description: "3D printing for solar mounting, CSP geometry, PV system components, and off-grid deployment hardware."
 layout: "services"
-image: "https://images.unsplash.com/photo-1581784878214-8d5596b98a01?w=1200&q=80"
+image: "/images/01_solar_panel.png"
 ---
 
 ## Panel Mounting Structures
